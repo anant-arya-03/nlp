@@ -1,0 +1,6 @@
+api/
+backend/
+main.py
+hf_client.py
+__pycache__/
+*.pyc
